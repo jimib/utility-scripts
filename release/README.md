@@ -13,7 +13,14 @@
 6. Commit your changes
 7. Release your first tagged version
 ```
+//default
 yarn release
+//patch
+yarn release patch
+//minor
+yarn release minor
+//major
+yarn release major
 ```
 The nice thing is on release it gives you a list of options for updating your projects with this dependency
 Example output:
