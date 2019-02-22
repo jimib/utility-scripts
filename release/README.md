@@ -23,6 +23,7 @@ yarn release minor
 yarn release major
 ```
 The nice thing is on release it gives you a list of options for updating your projects with this dependency
+
 Example output:
 
 ```
