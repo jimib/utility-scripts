@@ -16,3 +16,12 @@
 yarn release
 ```
 The nice thing is on release it gives you a list of options for updating your projects with this dependency
+Example output:
+
+```
+https://github.com/Jimib/utility-scripts/releases/tag/1.0.0
+-or-
+"utility": "github:Jimib/utility-scripts#1.0.0"
+-or-
+yarn add Jimib/utility-scripts#1.0.0
+```
